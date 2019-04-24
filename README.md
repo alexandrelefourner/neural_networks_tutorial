@@ -1,6 +1,7 @@
-# neural_networks_tutorial
+# Neural Networks Tutorial
 
 A series of notebook to learn how Artificial Neural Networks work, with video support.
+
 
 # 1. Neural Network principles notebook
 
