@@ -10,6 +10,17 @@ The exercice notebook and its solution provide a first touch with the building b
 The video is available [on youtube](https://www.youtube.com/watch?v=XJu-ZzE3sUo).
 
 
+# 2. Your first genetic algorithm
+
+![alt text](ipynb_images/Presentation.jpg)
+
+The notebooks show the creation of a genetic algorithm from scratch to answer [Nicomon's Snek gym environment](https://github.com/nicomon24/Sneks).
+The installation notebook proposes a few cells for Windows and Linux users.
+The solution notebook presents the full code explained.
+
+1. [Gym environment and installation](https://youtu.be/VEh8nwQtTwE)
+
+
 # License
 
 License is [GPL 3.0](LICENSE)
