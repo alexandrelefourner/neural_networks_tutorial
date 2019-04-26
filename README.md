@@ -18,7 +18,7 @@ The notebooks show the creation of a genetic algorithm from scratch to answer [N
 The installation notebook proposes a few cells for Windows and Linux users.
 The solution notebook presents the full code explained.
 
-1. [Gym environment and installation](https://youtu.be/VEh8nwQtTwE)
+1. [Gym environment and installation](https://www.youtube.com/watch?v=VEh8nwQtTwE&list=PL_mqLx7AmDzeG5kXYbhllIaLiZIALla3P&index=2)
 
 
 # License
