@@ -19,7 +19,7 @@ The installation notebook proposes a few cells for Windows and Linux users.
 The solution notebook presents the full code explained.
 
 1. [Gym environment and installation](https://www.youtube.com/watch?v=VEh8nwQtTwE&list=PL_mqLx7AmDzeG5kXYbhllIaLiZIALla3P&index=2)
-1'. [Gym exercice](https://www.youtube.com/watch?v=VZx7H38FCkI&list=PL_mqLx7AmDzeG5kXYbhllIaLiZIALla3P&index=4)
+1'. [Gym exercice](https://www.youtube.com/watch?v=y8qF6guwvl4&list=PL_mqLx7AmDzeG5kXYbhllIaLiZIALla3P&index=3)
 
 
 # License
