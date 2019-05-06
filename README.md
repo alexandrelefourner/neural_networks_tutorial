@@ -21,6 +21,7 @@ The solution notebook presents the full code explained.
 
 - [Gym environment and installation](https://www.youtube.com/watch?v=VEh8nwQtTwE&list=PL_mqLx7AmDzeG5kXYbhllIaLiZIALla3P&index=2)
   - [Gym exercice](https://www.youtube.com/watch?v=y8qF6guwvl4&list=PL_mqLx7AmDzeG5kXYbhllIaLiZIALla3P&index=3)
+- [Principles of Evolutionary algorithm](https://www.youtube.com/watch?v=BCZt32L6Lx0&list=PL_mqLx7AmDzeG5kXYbhllIaLiZIALla3P&index=4)
 
 
 # License
