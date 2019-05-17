@@ -8,6 +8,7 @@ A series of notebook to learn how Artificial Neural Networks work, with video su
 The exercice notebook and its solution provide a first touch with the building blocks of low level neural networks.
 
 The video is available [on youtube](https://www.youtube.com/watch?v=XJu-ZzE3sUo&list=PL_mqLx7AmDzeG5kXYbhllIaLiZIALla3P).
+
 05.17.19 : [Another video](https://www.youtube.com/watch?v=RnbVW8ObWls&list=PL_mqLx7AmDzfJ6dc8iw_Z9mC2bhd90eer) has been added to explain matrices multiplications
 
 
