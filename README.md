@@ -25,6 +25,7 @@ The solution notebook presents the full code explained.
   - [Gym exercice](https://www.youtube.com/watch?v=y8qF6guwvl4&list=PL_mqLx7AmDzeG5kXYbhllIaLiZIALla3P&index=3)
 - [Principles of Evolutionary algorithm](https://www.youtube.com/watch?v=BCZt32L6Lx0&list=PL_mqLx7AmDzeG5kXYbhllIaLiZIALla3P&index=4)
 - [The Neural Network](https://www.youtube.com/watch?v=wasZ0MusbdM&list=PL_mqLx7AmDzeG5kXYbhllIaLiZIALla3P&index=5)
+- [A farm of snakes](https://www.youtube.com/watch?v=3E2uIOsQC-0&list=PL_mqLx7AmDzeG5kXYbhllIaLiZIALla3P&index=6)
 
 
 # License
